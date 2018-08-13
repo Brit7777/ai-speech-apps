@@ -1,0 +1,1 @@
+C:\Users\Jooyoung\ai-speech-apps\LAB01-Source\AISpeechExplorer\AISpeechExplorer.csproj;x86
